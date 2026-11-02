@@ -6,7 +6,7 @@ A Maya tool that turns a 2D illustration into a 3D scene you can animate. You dr
 
 **The chore it ends:** setting up a background or reference scene from a sketch by hand: modeling simple shapes, placing them at the right depth, and lining them up with a camera so they match the drawing.
 
-**Demo video (1-3 min):** [Google Drive folder](https://drive.google.com/drive/folders/1SO0oK6Ihu2Fnfhx8auoODNkKPP2mQ2QF)
+**Demo video (1-3 min):** [watch on Google Drive](https://drive.google.com/file/d/1B4FJupy9t1X1iW4m7nGYZbM3LnceWOuG/view?usp=sharing)
 
 **App:** Autodesk Maya (Python tool with its own window). Made for **Windows and Mac**, **Maya 2022 or newer**. Tested on **Maya 2026 and Maya 2027 on Windows** (not on a Mac yet). Not standalone.
 
